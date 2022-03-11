@@ -7,6 +7,9 @@ To test and use this app:
 1. Run "npm install" command. (If there is no node_modules folder)
 2. Run "npm start" command. Then the app will be started and you can use it.
 
+#Demo Link
+https://drive.google.com/file/d/1vnOx1sefSK3SBvV4wWztBscEZ1k-03Th/view
+
 #Criteria
 GIVEN a command-line application that accepts user input
 WHEN I start the application
